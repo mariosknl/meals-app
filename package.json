@@ -22,7 +22,7 @@
     "redux": "4.2.1"
   },
   "devDependencies": {
-    "@babel/core": "7.22.9"
+    "@babel/core": "7.22.10"
   },
   "scripts": {
     "start": "expo start",
