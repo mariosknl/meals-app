@@ -2384,7 +2384,7 @@
     "@babel/helper-validator-identifier" "^7.22.5"
     to-fast-properties "^2.0.0"
 
-"@babel/types@^7.23.4":
+"@babel/types@^7.23.4", "@babel/types@^7.23.9":
   version "7.23.9"
   resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.23.9.tgz#1dd7b59a9a2b5c87f8b41e52770b5ecbf492e002"
   integrity sha512-dQjSq/7HaSjRM43FFGnv5keM2HsxpmyV1PfaSVm0nzzjwwTmjOe6J4bC8e3+pTEIgHaHj+1ZlLThRJ2auc/w1Q==
@@ -2397,15 +2397,6 @@
   version "7.23.6"
   resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.23.6.tgz#be33fdb151e1f5a56877d704492c240fc71c7ccd"
   integrity sha512-+uarb83brBzPKN38NX1MkB6vb6+mwvR6amUulqAE7ccQw1pEl+bCia9TbdG1lsnFP7lZySvUn37CHyXQdfTwzg==
-  dependencies:
-    "@babel/helper-string-parser" "^7.23.4"
-    "@babel/helper-validator-identifier" "^7.22.20"
-    to-fast-properties "^2.0.0"
-
-"@babel/types@^7.23.9":
-  version "7.23.9"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.23.9.tgz#1dd7b59a9a2b5c87f8b41e52770b5ecbf492e002"
-  integrity sha512-dQjSq/7HaSjRM43FFGnv5keM2HsxpmyV1PfaSVm0nzzjwwTmjOe6J4bC8e3+pTEIgHaHj+1ZlLThRJ2auc/w1Q==
   dependencies:
     "@babel/helper-string-parser" "^7.23.4"
     "@babel/helper-validator-identifier" "^7.22.20"
@@ -6847,10 +6838,10 @@ react-native-reanimated@3.6.2:
     convert-source-map "^2.0.0"
     invariant "^2.2.4"
 
-react-native-safe-area-context@4.8.2:
-  version "4.8.2"
-  resolved "https://registry.yarnpkg.com/react-native-safe-area-context/-/react-native-safe-area-context-4.8.2.tgz#e6b3d8acf3c6afcb4b5db03a97f9c37df7668f65"
-  integrity sha512-ffUOv8BJQ6RqO3nLml5gxJ6ab3EestPiyWekxdzO/1MQ7NF8fW1Mzh1C5QE9yq573Xefnc7FuzGXjtesZGv7cQ==
+react-native-safe-area-context@4.9.0:
+  version "4.9.0"
+  resolved "https://registry.yarnpkg.com/react-native-safe-area-context/-/react-native-safe-area-context-4.9.0.tgz#21a570ca3594cb4259ba65f93befaa60d91bcbd0"
+  integrity sha512-/OJD9Pb8IURyvn+1tWTszWPJqsbZ4hyHBU9P0xhOmk7h5owSuqL0zkfagU0pg7Vh0G2NKQkaPpUKUMMCUMDh/w==
 
 react-native-screens@3.29.0:
   version "3.29.0"
