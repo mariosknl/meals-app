@@ -19,7 +19,7 @@
     "react-navigation-header-buttons": "13.0.0",
     "react-navigation-stack": "2.10.4",
     "react-navigation-tabs": "2.11.2",
-    "react-redux": "9.1.2",
+    "react-redux": "9.2.0",
     "redux": "5.0.1"
   },
   "devDependencies": {
