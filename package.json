@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@expo/vector-icons": "14.0.4",
+    "@expo/vector-icons": "14.1.0",
     "@react-native-community/masked-view": "0.1.11",
     "expo": "52.0.44",
     "expo-app-loading": "2.1.1",
