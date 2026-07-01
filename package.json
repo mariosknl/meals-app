@@ -2,9 +2,9 @@
   "dependencies": {
     "@expo/vector-icons": "15.1.1",
     "@react-native-community/masked-view": "0.1.11",
-    "expo": "56.0.12",
+    "expo": "57.0.1",
     "expo-app-loading": "2.1.1",
-    "expo-font": "56.0.7",
+    "expo-font": "57.0.0",
     "react": "19.2.7",
     "react-dom": "19.2.7",
     "react-native": "0.86.0",
