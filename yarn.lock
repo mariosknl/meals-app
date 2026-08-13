@@ -4781,10 +4781,10 @@ react-lifecycles-compat@^3.0.4:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
-react-native-gesture-handler@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-3.1.0.tgz#679e74b587464bb560ab022eedfbbbbdb17c3b1c"
-  integrity sha512-+kWVyZ6vLdtyFa1/aOc/sZncLAVPUKxhji/ttbiLI7hOaSU44bLjhI7p+Ns+pMl2r3RqPXssl5qHReYet9G77g==
+react-native-gesture-handler@3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-3.2.0.tgz#4706686bc6f3bec5e18ead24744fb0e123601613"
+  integrity sha512-s8pTrXd/67oqk8EyavAOSTjsG+PdHGaUKpEAuX8IWVTwLVPafSSvktDsbD6ncuoMrZGWagMSSiLMsQwrLzDuTg==
   dependencies:
     "@types/react-test-renderer" "^19.1.0"
     invariant "^2.2.4"
